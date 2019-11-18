@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-agile",
+  "version": "1.0.0",
+  "description": "Nuxt module for vue-agile",
+  "main": "index.js",
+  "repository": "https://github.com/veceraj/nuxt-agile.git",
+  "author": "Jacob <jacob.vecera@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vue-agile": "^1.0.11"
+  }
+}
