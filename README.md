@@ -10,7 +10,11 @@
 - Add `nuxt-agile` dependency using yarn or npm to your project
 
 ```bash
+//yarn
 yarn add nuxt-agile
+
+//npm
+npm i nuxt-agile
 ```
 
 - Add `nuxt-agile` to `modules` section of `nuxt.config.js`
@@ -29,10 +33,13 @@ yarn add nuxt-agile
 <client-only>
     <agile>
         <div class="slide">
-            slide
+            slide1
         </div>
         <div class="slide">
-            slide 
+            slide2
+        </div>
+        <div class="slide">
+            slide3
         </div>
     </agile>
 </client-only>
