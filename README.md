@@ -6,6 +6,8 @@
 
 > Nuxt module for vue-agile, see [vue-agile](https://github.com/lukaszflorczak/vue-agile) for more details.
 
+Does not support SSR
+
 ## Installation
 - Add `nuxt-agile` dependency using yarn or npm to your project
 
